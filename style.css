@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,500;1,500&family=Pacifico&family=Playfair+Display:ital,wght@0,900;1,700&display=swap');
+
+body {
+    max-width: 390px;
+
+}
+
+
+h1 {
+    color: blue;
+    font-size: 62px;
+    background: white;
+    font-family: 'EB Garamond', serif;
+}
+
+h3 {
+    color: purple;
+    font-size: 27px;
+    background: white;
+
+
+}
+
+img {
+    width: 380px;
+}
+
+#one {
+    color: brown;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-style: italic;
+}
+
+#two {
+    color: green;
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+}
+
+#three {
+    color: blue;
+    font-family: 'EB Garamond', serif;
+}
+
+#four {
+    color: yellow;
+}
+
+button {
+    width: 180;
+    height: 140;
+}
